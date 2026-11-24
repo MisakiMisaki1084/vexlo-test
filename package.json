@@ -1,0 +1,1 @@
+{"description":"Minimal Node.js hello-world app to test Vexlo Cloud Public Git URL deployment","license":"MIT","main":"server.js","name":"vexlo-test","scripts":{"start":"node server.js"},"version":"1.0.0"}
